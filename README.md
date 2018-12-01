@@ -4,8 +4,8 @@
 
 - Collect data
 - Process data
-- Detect patterns
-- Determine relevancy
+- Detect patterns (CEP)
+- Determine relevancy (ML)
 - Notify
 
 
