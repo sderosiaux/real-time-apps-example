@@ -9,6 +9,11 @@ Let's try to resume what real time applications are good at:
 - Dynamic inventory: predict stock and demands
 - Intelligent sourcing: optimize delivery SLAs and costs
 - Alerting/Fraud: detecting trend changes or bad content (through nlp/ml)
+- Proactive churn detection
+- Finance: out of credit
+- Insurance: customer stuck in application form: can trigger chat
+- Heatlhcare: heart failure: alert doctor
+- Traffic jam detector
+- Logs analysis: alerting
 - Real-time analytics
 - ETL
-- Proactive churn detection
