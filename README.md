@@ -1,5 +1,16 @@
 # real-time-apps-example
 
+## Process
+
+- Collect data
+- Process data
+- Detect patterns
+- Determine relevancy
+- Notify
+
+
+## Examples
+
 Let's try to resume what real time applications are good at:
 
 - Personalized search: personal ranking and scores
