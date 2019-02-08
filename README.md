@@ -28,3 +28,16 @@ Let's try to resume what real time applications are good at:
 - Logs analysis: alerting
 - Real-time analytics
 - ETL
+- Algorithmic Trading, Stock Market Surveillance,
+- Smart Patient Care
+- Monitoring a production line
+- Supply chain optimizations
+- Intrusion, Surveillance and Fraud Detection ( e.g. Uber)
+- Most Smart Device Applications: Smart Car, Smart Home ..
+- Smart Grid — (e.g. load prediction and outlier plug detection see Smart grids, 4 Billion events, throughout in range of 100Ks)
+- Traffic Monitoring, Geofencing, Vehicle, and Wildlife tracking — e.g. TFL London Transport Management System
+- Sports analytics — Augment Sports with real-time analytics (e.g. this is a work we did with a real football game (e.g. Overlaying realtime analytics on Football Broadcasts)
+- Context-aware promotions and advertising
+- Computer system and network monitoring
+- Predictive Maintenance, (e.g. Machine Learning Techniques for Predictive Maintenance)
+- Geospatial data processing
