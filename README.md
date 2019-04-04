@@ -41,3 +41,7 @@ Let's try to resume what real time applications are good at:
 - Computer system and network monitoring
 - Predictive Maintenance, (e.g. Machine Learning Techniques for Predictive Maintenance)
 - Geospatial data processing
+- Transportation: ETA, sensors
+- Uber like: Driver / Rider match
+- Retail: Real time inventory. Real time POS reporting, personalization
+
